@@ -23,28 +23,21 @@ VirtualTryOn is an AI-powered virtual try-on application that allows users to se
 1. Clone the repository:
    ```bash
    git clone https://github.com/luqmaanshaik/VirtualTryOn.git
-Install the required dependencies:
+2. Install the required dependencies:
 
-bash
-Copy
-Edit
 pip install opencv-python opencv-python-headless cvzone mediapipe numpy
-Ensure your camera is connected and accessible by OpenCV.
 
-Usage
-Run the application:
+3. Ensure your camera is connected and accessible by OpenCV.
+## Usage
+1. Run the application:
 
-bash
-Copy
-Edit
 python virtual_tryon.py
-Follow the on-screen instructions to use the virtual try-on feature.
 
-Swipe left or right to change shirts.
+2. Follow the on-screen instructions to use the virtual try-on feature.
+3. Swipe left or right to change shirts.
 
-Directory Structure
-Copy
-Edit
+## Directory Structure
+
 VirtualTryOn/
 ├── Resources/
 │   └── Shirts/
@@ -53,11 +46,11 @@ VirtualTryOn/
 │       └── ...
 ├── virtual_tryon.py
 └── README.md
-Resources/Shirts: Folder containing the shirt images you want to use in the virtual try-on.
-Contributing
-Feel free to fork this project, submit issues, and contribute improvements. If you have ideas or suggestions, don’t hesitate to open a pull request!
+. Resources/Shirts: Folder containing the shirt images you want to use in the virtual try-on.
 
-Acknowledgments
-Thanks to the developers of cvzone for the PoseDetector module.
-Thanks to Mediapipe for the pose detection model.
+## Contributing
+. Feel free to fork this project, submit issues, and contribute improvements. If you have ideas or suggestions, don’t hesitate to open a pull request!
 
+## Acknowledgments
+. Thanks to the developers of cvzone for the PoseDetector module.
+. Thanks to Mediapipe for the pose detection model.
