@@ -24,8 +24,8 @@ VirtualTryOn is an AI-powered virtual try-on application that allows users to se
    ```bash
    git clone https://github.com/luqmaanshaik/VirtualTryOn.git
 2. Install the required dependencies:
-
-pip install opencv-python opencv-python-headless cvzone mediapipe numpy
+   ```bash
+   pip install opencv-python opencv-python-headless cvzone mediapipe numpy
 
 3. Ensure your camera is connected and accessible by OpenCV.
 ## Usage
