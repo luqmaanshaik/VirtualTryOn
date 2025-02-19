@@ -47,7 +47,7 @@ VirtualTryOn/
 ├── virtual_tryon.py
 └── README.md
  ```
-. Resources/Shirts: Folder containing the shirt images you want to use in the virtual try-on.
+- Resources/Shirts: Folder containing the shirt images you want to use in the virtual try-on.
 
 ## Contributing
 - Feel free to fork this project, submit issues, and contribute improvements. If you have ideas or suggestions, don’t hesitate to open a pull request!
