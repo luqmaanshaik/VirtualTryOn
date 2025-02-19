@@ -37,7 +37,7 @@ python virtual_tryon.py
 3. Swipe left or right to change shirts.
 
 ## Directory Structure
-
+ ```
 VirtualTryOn/
 ├── Resources/
 │   └── Shirts/
@@ -46,6 +46,7 @@ VirtualTryOn/
 │       └── ...
 ├── virtual_tryon.py
 └── README.md
+ ```
 . Resources/Shirts: Folder containing the shirt images you want to use in the virtual try-on.
 
 ## Contributing
