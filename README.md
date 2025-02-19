@@ -49,8 +49,8 @@ VirtualTryOn/
 . Resources/Shirts: Folder containing the shirt images you want to use in the virtual try-on.
 
 ## Contributing
-. Feel free to fork this project, submit issues, and contribute improvements. If you have ideas or suggestions, don’t hesitate to open a pull request!
+- Feel free to fork this project, submit issues, and contribute improvements. If you have ideas or suggestions, don’t hesitate to open a pull request!
 
 ## Acknowledgments
-. Thanks to the developers of cvzone for the PoseDetector module.
-. Thanks to Mediapipe for the pose detection model.
+- Thanks to the developers of cvzone for the PoseDetector module.
+- Thanks to Mediapipe for the pose detection model.
